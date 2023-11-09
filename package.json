@@ -1,5 +1,5 @@
 {
-  "name": "@watergis/mapbox-gl-export",
+  "name": "mapbox-gl-export",
   "version": "2.0.1",
   "description": "This module adds control which can export PDF and images.",
   "main": "dist/index.js",
